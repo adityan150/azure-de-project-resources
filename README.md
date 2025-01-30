@@ -1,1 +1,1 @@
-# azure-de-project-resources
+# Azure Data Engineering Project Resources
